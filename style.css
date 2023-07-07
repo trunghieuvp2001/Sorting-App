@@ -1,0 +1,16 @@
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        #output {
+            width: 400px;
+            height: 200px;
+            overflow: auto;
+            border: 1px solid #ccc;
+            padding: 5px;
+            margin-bottom: 10px;
+        }
+        
+        button {
+            margin-right: 10px;
+        }
